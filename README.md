@@ -20,13 +20,9 @@ I am a data analyst with a background in teaching college level mathematics and 
 
 #### My Key Skills include:
 •	Data cleaning, analysis, and visualization through Excel
-
 •	Data cleaning, analysis, and visualization using Jupyter Notebook with Python
-
 •	Querying with SQL
-
 •	Data mining and storytelling using Tableau 
-
 •	Knowledge of mathematics and statistics
 
 
@@ -34,13 +30,8 @@ I am a data analyst with a background in teaching college level mathematics and 
 https://kirakuznetsov.wordpress.com
 
 •	Loan default prediction
-
 •	Trends in faculty salaries for college in US
-
 •	Time series analysis for XRP/BTC rates
-
 •	Sales analysis in gaming industry and grocery shopping
-
 •	Analysis of influenza season for medical staffing
-
 •	Grade analysis for algebra students 
